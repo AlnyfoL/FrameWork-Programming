@@ -1,7 +1,7 @@
 # FrameWork-Programming
 
 Exercice 1 :
-<img src="/screen/alex.jpg" width="100" height="100">
+<img src="/screen/alex.jpg" width="400" height="600">
 ![alex](/screen/alex.jpg)
 ![ex1](/screen/ex1.jpg)
 ![ex1](/screen/ex1.2.jpg)
