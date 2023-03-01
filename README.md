@@ -1,7 +1,7 @@
 # FrameWork-Programming
 
 Exercice 1 :
-![alex](/screen/alex.jpg)
+![alex](/screen/alex.jpg | width=10)
 ![ex1](/screen/ex1.jpg)
 ![ex1](/screen/ex1.2.jpg)
 ![ex1](/screen/ex1.3.jpg)
