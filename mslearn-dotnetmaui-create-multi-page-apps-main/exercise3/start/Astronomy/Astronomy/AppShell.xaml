@@ -25,4 +25,9 @@
             ContentTemplate="{DataTemplate local:AboutPage}"/>
     </FlyoutItem>
 
+    <FlyoutItem Title="Name" >
+        <ShellContent
+            ContentTemplate="{DataTemplate local:NamePage}"/>
+    </FlyoutItem>
+
 </Shell>
