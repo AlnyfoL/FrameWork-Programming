@@ -2,11 +2,11 @@
 
 Exercice 1 : 
 
+![alex](screen/3.png)
+
 ![alex](screen/1.png)
 
 ![alex](screen/2.png)
-
-![alex](screen/3.png)
 
 ![alex](screen/4.png)
 
