@@ -18,6 +18,8 @@ Exercice 1 :
 
 ![alex](screen/8.png)
 
+Exercice 2 :
+
 ![alex](screen/9.png)
 
 ![alex](screen/10.png)
