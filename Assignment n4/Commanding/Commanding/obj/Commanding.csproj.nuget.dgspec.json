@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\Commanding.csproj": {}
+    "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\Commanding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\Commanding.csproj": {
+    "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\Commanding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\Commanding.csproj",
+        "projectUniqueName": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\Commanding.csproj",
         "projectName": "Commanding",
-        "projectPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\Commanding.csproj",
+        "projectPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\Commanding.csproj",
         "packagesPath": "C:\\Users\\Laroye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\obj\\",
+        "outputPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,1 +1,1 @@
-C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\Commanding.csproj;x64
+C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\Commanding.csproj;x64

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EDbA2il0Bp7mmJ7ydOZHVH7u6bmYZDAoeEeyBcJEjCIe9aSv+dqZpFq2AAciKpwG99TKoZ0OQwXnB0gJ32g0BA==",
+  "dgSpecHash": "zRiYImqWR9/ibnsUM6lbWrr5C7A/EjxoEsv6+8C2al4k7SlAVMEEP9uysu6iP4N7szzjKQRG3b1U5nePotdNng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\InteractiveMVVM\\Commanding\\Commanding\\Commanding.csproj",
+  "projectFilePath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n4\\Commanding\\Commanding\\Commanding.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laroye\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Laroye\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>710a8a1a-db7d-4dce-80d1-c70ac58290c3</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>929C6D2886A8AC437C57076568282F867463E713ED09ACA8EEC70EB1723D8420</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>710a8a1a-db7d-4dce-80d1-c70ac58290c3_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>710a8a1a-db7d-4dce-80d1-c70ac58290c3_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T07:11:44.602</Modified>
+      <Modified>2023-03-09T07:19:42.948</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-09T06:45:42.727</Modified>
+      <Modified>2023-03-09T07:19:42.439</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.runtimeconfig.json">
       <PackagePath>Commanding.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-09T06:45:42.575</Modified>
+      <Modified>2023-03-09T07:19:42.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.dll">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.dll">
       <PackagePath>Commanding.dll</PackagePath>
-      <Modified>2023-03-09T07:11:42.749</Modified>
+      <Modified>2023-03-09T07:19:40.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Commanding.exe</PackagePath>
-      <Modified>2023-03-09T07:11:42.833</Modified>
+      <Modified>2023-03-09T07:19:40.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Laroye\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -918,9 +918,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.deps.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Commanding.deps.json">
       <PackagePath>Commanding.deps.json</PackagePath>
-      <Modified>2023-03-09T07:11:44.252</Modified>
+      <Modified>2023-03-09T07:19:42.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -934,239 +934,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T10:16:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-09T03:42:47.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.160</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.222</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-09T03:42:47.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-03-09T03:42:47.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-09T03:43:12.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:13.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:13.237</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:13.261</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:13.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:13.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-09T03:43:12.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-09T03:43:12.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-09T03:43:12.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-09T03:43:12.746</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-09T03:43:12.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-09T03:43:12.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-09T03:43:12.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-09T03:43:12.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-09T03:43:12.696</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-09T03:43:12.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.630</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-03-09T03:43:12.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-03-09T03:43:12.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-03-09T03:43:12.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-03-09T03:43:12.658</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-03-09T03:43:12.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.902</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.929</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.779</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:13.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:13.052</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:13.082</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:13.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-09T03:43:12.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-09T03:43:12.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-09T03:43:12.728</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-09T03:43:12.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-09T03:43:12.938</Modified>
     </AppxPackagedFile>

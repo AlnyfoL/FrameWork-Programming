@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Commanding
-build_property.ProjectDir = C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\InteractiveMVVM\Commanding\Commanding\
+build_property.ProjectDir = C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n4\Commanding\Commanding\
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/InteractiveMVVM/Commanding/Commanding/App.xaml]
+[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/Commanding/Commanding/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commanding.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/InteractiveMVVM/Commanding/Commanding/AppShell.xaml]
+[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/Commanding/Commanding/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commanding.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/InteractiveMVVM/Commanding/Commanding/MainPage.xaml]
+[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/Commanding/Commanding/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commanding.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/InteractiveMVVM/Commanding/Commanding/Resources/Styles/Colors.xaml]
+[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/Commanding/Commanding/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commanding.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/InteractiveMVVM/Commanding/Commanding/Resources/Styles/Styles.xaml]
+[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n4/Commanding/Commanding/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Commanding.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
