@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>EFACD191-1282-47B4-9621-886F2D7D2DC6</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DE3003466566A51D56BC6FD5D99D25EF58D32DE1302C06C43EE1F0D56927E414</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>EFACD191-1282-47B4-9621-886F2D7D2DC6_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>EFACD191-1282-47B4-9621-886F2D7D2DC6_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-06T09:49:44.023</Modified>
+      <Modified>2023-03-09T02:36:42.525</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-06T09:49:43.453</Modified>
+      <Modified>2023-03-09T02:36:41.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\People.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\People.runtimeconfig.json">
       <PackagePath>People.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-06T09:49:43.115</Modified>
+      <Modified>2023-03-07T03:54:17.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\People.dll">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\People.dll">
       <PackagePath>People.dll</PackagePath>
-      <Modified>2023-03-06T09:49:41.451</Modified>
+      <Modified>2023-03-09T02:36:38.990</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>People.exe</PackagePath>
-      <Modified>2023-03-06T09:49:41.501</Modified>
+      <Modified>2023-03-09T02:36:39.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Laroye\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.14\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1086,9 +1086,9 @@
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\People.deps.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\People.deps.json">
       <PackagePath>People.deps.json</PackagePath>
-      <Modified>2023-03-06T09:49:43.842</Modified>
+      <Modified>2023-03-09T02:36:42.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Laroye\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1102,239 +1102,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T02:56:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-06T09:37:15.488</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.366</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.390</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-06T09:37:15.439</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-03-06T09:37:15.454</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-06T09:38:11.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:12.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:12.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:12.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:12.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:12.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-06T09:38:11.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-06T09:38:11.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-06T09:38:11.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-06T09:38:11.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-06T09:38:11.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-06T09:38:11.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-06T09:38:11.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-06T09:38:11.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-06T09:38:11.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-06T09:38:11.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.731</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-03-06T09:38:11.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-03-06T09:38:11.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-03-06T09:38:11.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-03-06T09:38:11.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-03-06T09:38:11.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.893</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.907</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.927</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.835</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.934</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.942</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:12.025</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-06T09:38:11.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-06T09:38:11.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-06T09:38:11.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-06T09:38:11.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\mslearn-dotnetmaui-store-local-data-main\mslearn-dotnetmaui-store-local-data-main\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n3\exercice 2\People\People\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-06T09:38:11.899</Modified>
     </AppxPackagedFile>

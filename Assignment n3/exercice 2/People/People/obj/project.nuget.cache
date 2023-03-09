@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Z2+BZcR7bkJ817jdohtmK4b4HzaJmL5rAJ0H4w9wImtFyH8qCqgGrpZa9WCJcS6EBMbxFl9Bowd1WpCZvGw+Q==",
+  "dgSpecHash": "ItsbIeYTB/BfVvvakg0WMyU6cTGqu/9LLHxcP2/DyDskdhT1OzH2Eb6zhOuJMz30lyr8lLiZgDtN4QjjGgXEyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laroye\\Downloads\\mslearn-dotnetmaui-store-local-data-main\\mslearn-dotnetmaui-store-local-data-main\\People\\People\\People.csproj",
+  "projectFilePath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n3\\exercice 2\\People\\People\\People.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laroye\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Laroye\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

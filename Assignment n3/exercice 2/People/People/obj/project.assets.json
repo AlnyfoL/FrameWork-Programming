@@ -27517,11 +27517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laroye\\Downloads\\mslearn-dotnetmaui-store-local-data-main\\mslearn-dotnetmaui-store-local-data-main\\People\\People\\People.csproj",
+      "projectUniqueName": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n3\\exercice 2\\People\\People\\People.csproj",
       "projectName": "People",
-      "projectPath": "C:\\Users\\Laroye\\Downloads\\mslearn-dotnetmaui-store-local-data-main\\mslearn-dotnetmaui-store-local-data-main\\People\\People\\People.csproj",
+      "projectPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n3\\exercice 2\\People\\People\\People.csproj",
       "packagesPath": "C:\\Users\\Laroye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laroye\\Downloads\\mslearn-dotnetmaui-store-local-data-main\\mslearn-dotnetmaui-store-local-data-main\\People\\People\\obj\\",
+      "outputPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n3\\exercice 2\\People\\People\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
