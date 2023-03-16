@@ -12,7 +12,7 @@
     "Name": "Spain",
     "Location": "Europe",
     "Details": "Spain is a European country located on the Iberian Peninsula and comprising 17 autonomous regions with diverse geography and cultures. Madrid, the capital, is home to the Royal Palace and the Prado Museum, where the works of European artists are exhibited.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Spain.jpg",
     "Population": 47000000,
     "Latitude": 40.416775,
     "Longitude": -3.703790
@@ -21,7 +21,7 @@
     "Name": "Italia",
     "Location": "Europe",
     "Details": "Italy, a European country bordered by the Mediterranean and the Adriatic, has left a strong imprint on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as art treasures and ancient ruins.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Italia.jpg",
     "Population": 60000000,
     "Latitude": 41.902782,
     "Longitude": 12.496366
@@ -30,7 +30,7 @@
     "Name": "Indonesia",
     "Location": "South Asia",
     "Details": "Indonesia, a Southeast Asian country made up of thousands of volcanic islands, is home to hundreds of ethnic groups speaking their own languages. Jakarta, a dynamic and sprawling capital, is located on the island of Java.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Indonesia.jpg",
     "Population": 273000000,
     "Latitude":  -6.200000,
     "Longitude": 106.816666
@@ -39,7 +39,7 @@
     "Name": "Australia",
     "Location": "Oceania",
     "Details": "Australia is a country and continent surrounded by the Indian and Pacific oceans. Its main cities, Sydney, Brisbane, Melbourne, Perth and Adelaide, are built on the coast. The capital, Canberra, is located inland.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/australia.png",
     "Population": 25000000,
     "Latitude": -35.280937,
     "Longitude": 149.130009
@@ -48,7 +48,7 @@
     "Name": "Germany",
     "Location": "Europe",
     "Details": "Germany is a country in Western Europe whose landscape consists of forests, rivers, mountain ranges and beaches on the North Sea. Berlin is the capital of germany.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Germany.jpg",
     "Population": 83000000,
     "Latitude": 52.520008,
     "Longitude": 13.404954
@@ -57,7 +57,7 @@
     "Name": "Japan",
     "Location": "East Asia",
     "Details": "Japan is an island country located in the Pacific Ocean. It features dense cities, imperial palaces, mountainous national parks, and thousands of temples and shrines. Tokyo, the capital, is famous for its skyscrapers, shops and popular culture.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Japan.jpg",
     "Population": 125000000,
     "Latitude": 35.652832,
     "Longitude": 139.839478
