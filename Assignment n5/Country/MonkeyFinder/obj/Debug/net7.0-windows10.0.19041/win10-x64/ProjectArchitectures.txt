@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\MonkeyFinder.csproj;x64
+=======
+C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\MonkeyFinder.csproj;x64
+>>>>>>> parent of 8ffcd38 (assign 5)
