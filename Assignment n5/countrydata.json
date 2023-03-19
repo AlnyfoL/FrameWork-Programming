@@ -18,15 +18,6 @@
     "Longitude": -3.703790
   },
   {
-    "Name": "Italia",
-    "Location": "Europe",
-    "Details": "Italy, a European country bordered by the Mediterranean and the Adriatic, has left a strong imprint on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as art treasures and ancient ruins.",
-    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Italia.jpg",
-    "Population": 60000000,
-    "Latitude": 41.902782,
-    "Longitude": 12.496366
-  },
-  {
     "Name": "Indonesia",
     "Location": "South Asia",
     "Details": "Indonesia, a Southeast Asian country made up of thousands of volcanic islands, is home to hundreds of ethnic groups speaking their own languages. Jakarta, a dynamic and sprawling capital, is located on the island of Java.",
@@ -52,6 +43,15 @@
     "Population": 83000000,
     "Latitude": 52.520008,
     "Longitude": 13.404954
+  },
+  {
+    "Name": "Italia",
+    "Location": "Europe",
+    "Details": "Italy, a European country bordered by the Mediterranean and the Adriatic, has left a strong imprint on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as art treasures and ancient ruins.",
+    "Image": "https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/Flag_of_Italia.jpg",
+    "Population": 60000000,
+    "Latitude": 41.902782,
+    "Longitude": 12.496366
   },
   {
     "Name": "Japan",
