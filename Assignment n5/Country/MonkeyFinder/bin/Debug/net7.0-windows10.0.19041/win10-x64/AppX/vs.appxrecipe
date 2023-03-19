@@ -10,11 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>F5784142-3F20-4DC0-8B93-737B40E52C6D</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-<<<<<<< HEAD
-    <IntermediateOutputPath>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
-=======
-    <IntermediateOutputPath>C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
->>>>>>> parent of 8ffcd38 (assign 5)
+    <IntermediateOutputPath>C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -22,11 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-<<<<<<< HEAD
-    <LayoutDir>C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
-=======
-    <LayoutDir>C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
->>>>>>> parent of 8ffcd38 (assign 5)
+    <LayoutDir>C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>1655FC64F3C55CD15F4D47913D5958504B4ABE063FA0860CE1920B9A2D2DC2B8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>F5784142-3F20-4DC0-8B93-737B40E52C6D_1.0.0.0_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>F5784142-3F20-4DC0-8B93-737B40E52C6D_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -35,53 +27,28 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <AppXManifest Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-16T08:54:25.531</Modified>
+      <Modified>2023-03-19T08:52:44.730</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-16T08:54:25.046</Modified>
+      <Modified>2023-03-19T08:52:43.755</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-16T08:54:24.765</Modified>
+      <Modified>2023-03-19T08:46:30.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2023-03-16T08:54:23.080</Modified>
+      <Modified>2023-03-19T08:46:29.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2023-03-16T08:54:23.121</Modified>
-=======
-    <AppXManifest Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
-      <PackagePath>AppxManifest.xml</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-16T08:42:05.649</Modified>
-    </AppXManifest>
-  </ItemGroup>
-  <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
-      <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-16T08:01:52.586</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
-      <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-16T07:11:02.645</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
-      <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2023-03-16T08:42:03.875</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
-      <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2023-03-16T08:42:03.897</Modified>
->>>>>>> parent of 8ffcd38 (assign 5)
+      <Modified>2023-03-19T08:46:29.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Laroye\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -955,15 +922,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2023-03-16T08:54:25.346</Modified>
-=======
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
-      <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2023-03-16T08:42:05.402</Modified>
->>>>>>> parent of 8ffcd38 (assign 5)
+      <Modified>2023-03-19T08:52:44.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -977,483 +938,243 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T10:16:40.000</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-16T06:50:23.290</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\Resources\Raw\monkeydata.json">
-      <PackagePath>monkeydata.json</PackagePath>
-      <Modified>2023-03-16T07:59:31.784</Modified>
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\Resources\Raw\countrydata.json">
+      <PackagePath>countrydata.json</PackagePath>
+      <Modified>2023-03-19T08:36:50.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-16T06:50:23.281</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-16T07:10:50.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.969</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:51.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:51.096</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-16T07:10:50.753</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-16T07:10:50.757</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-16T07:10:50.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-16T07:10:50.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-16T07:10:50.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-16T07:10:50.727</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-16T07:10:50.731</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-16T07:10:50.749</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-16T07:10:50.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-16T07:10:50.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-03-16T07:10:50.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-03-16T07:10:50.705</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-03-16T07:10:50.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-03-16T07:10:50.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-03-16T07:10:50.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.836</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.801</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:50.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-16T07:10:50.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-16T07:10:50.755</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-16T07:10:50.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-16T07:10:50.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-16T07:10:51.129</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\dotnet-maui-workshop\Country\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
-=======
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\Resources\Raw\AboutAssets.txt">
-      <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-03-16T06:50:23.290</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\Resources\Raw\monkeydata.json">
-      <PackagePath>monkeydata.json</PackagePath>
-      <Modified>2023-03-16T07:59:31.784</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
-      <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.386</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
-      <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.410</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
-      <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.441</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
-      <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.473</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
-      <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.602</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-03-16T06:50:23.281</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-03-16T07:10:50.670</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.969</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.982</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.993</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:51.013</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:51.096</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.757</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.771</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.760</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.763</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.727</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.731</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.749</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.736</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.740</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.678</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.683</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.688</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.692</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.698</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.702</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.705</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.722</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.709</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.712</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.830</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.836</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.843</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.853</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.870</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.801</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.806</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.810</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.815</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.825</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.775</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.780</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.785</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.790</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.796</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.877</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.886</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.895</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.914</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.959</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.716</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.755</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.809</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-03-16T07:10:50.884</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-03-16T07:10:51.129</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
->>>>>>> parent of 8ffcd38 (assign 5)
+    <AppxPackagedFile Include="C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
       <PackagePath>nodata.scale-100.png</PackagePath>
       <Modified>2023-03-16T06:50:23.289</Modified>
     </AppxPackagedFile>

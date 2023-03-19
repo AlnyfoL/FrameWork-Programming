@@ -24563,19 +24563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n5\\Country\\MonkeyFinder\\MonkeyFinder.csproj",
+      "projectUniqueName": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
       "projectName": "MonkeyFinder",
-      "projectPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n5\\Country\\MonkeyFinder\\MonkeyFinder.csproj",
+      "projectPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
       "packagesPath": "C:\\Users\\Laroye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\GitHub\\FrameWork-Programming\\Assignment n5\\Country\\MonkeyFinder\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Laroye\\Downloads\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
-      "projectName": "MonkeyFinder",
-      "projectPath": "C:\\Users\\Laroye\\Downloads\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\MonkeyFinder.csproj",
-      "packagesPath": "C:\\Users\\Laroye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laroye\\Downloads\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\obj\\",
->>>>>>> parent of 8ffcd38 (assign 5)
+      "outputPath": "C:\\Users\\Laroye\\OneDrive - EPITA\\Documents\\dotnet-maui-workshop\\Finish\\MonkeyFinder\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

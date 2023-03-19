@@ -17,13 +17,13 @@ public class MonkeyService
             return monkeyList;
 
         // Online
-        var response = await httpClient.GetAsync("https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/monkeydata.json");
+        var response = await httpClient.GetAsync("https://raw.githubusercontent.com/AlnyfoL/FrameWork-Programming/master/Assignment%20n5/countrydata.json");
         if (response.IsSuccessStatusCode)
         {
             monkeyList = await response.Content.ReadFromJsonAsync<List<Monkey>>();
         }
         // Offline
-        /*using var stream = await FileSystem.OpenAppPackageFileAsync("monkeydata.json");
+        /*using var stream = await FileSystem.OpenAppPackageFileAsync("countrydata.json");
         using var reader = new StreamReader(stream);
         var contents = await reader.ReadToEndAsync();
         monkeyList = JsonSerializer.Deserialize<List<Monkey>>(contents);

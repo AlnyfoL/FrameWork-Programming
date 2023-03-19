@@ -12,45 +12,27 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MonkeyFinder
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Laroye\OneDrive - EPITA\Documents\GitHub\FrameWork-Programming\Assignment n5\Country\MonkeyFinder\
+build_property.ProjectDir = C:\Users\Laroye\OneDrive - EPITA\Documents\dotnet-maui-workshop\Finish\MonkeyFinder\
 
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n5/Country/MonkeyFinder/App.xaml]
-=======
-build_property.ProjectDir = C:\Users\Laroye\Downloads\dotnet-maui-workshop\Finish\MonkeyFinder\
-
-[C:/Users/Laroye/Downloads/dotnet-maui-workshop/Finish/MonkeyFinder/App.xaml]
->>>>>>> parent of 8ffcd38 (assign 5)
+[C:/Users/Laroye/OneDrive - EPITA/Documents/dotnet-maui-workshop/Finish/MonkeyFinder/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-<<<<<<< HEAD
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n5/Country/MonkeyFinder/AppShell.xaml]
-=======
-[C:/Users/Laroye/Downloads/dotnet-maui-workshop/Finish/MonkeyFinder/AppShell.xaml]
->>>>>>> parent of 8ffcd38 (assign 5)
+[C:/Users/Laroye/OneDrive - EPITA/Documents/dotnet-maui-workshop/Finish/MonkeyFinder/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-<<<<<<< HEAD
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n5/Country/MonkeyFinder/View/DetailsPage.xaml]
-=======
-[C:/Users/Laroye/Downloads/dotnet-maui-workshop/Finish/MonkeyFinder/View/DetailsPage.xaml]
->>>>>>> parent of 8ffcd38 (assign 5)
+[C:/Users/Laroye/OneDrive - EPITA/Documents/dotnet-maui-workshop/Finish/MonkeyFinder/View/DetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.DetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\DetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\DetailsPage.xaml
 
-<<<<<<< HEAD
-[C:/Users/Laroye/OneDrive - EPITA/Documents/GitHub/FrameWork-Programming/Assignment n5/Country/MonkeyFinder/View/MainPage.xaml]
-=======
-[C:/Users/Laroye/Downloads/dotnet-maui-workshop/Finish/MonkeyFinder/View/MainPage.xaml]
->>>>>>> parent of 8ffcd38 (assign 5)
+[C:/Users/Laroye/OneDrive - EPITA/Documents/dotnet-maui-workshop/Finish/MonkeyFinder/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml

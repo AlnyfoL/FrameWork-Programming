@@ -25,8 +25,6 @@ namespace MonkeyFinder
 		
 		public static void UpdateIdValues()
 		{
-<<<<<<< HEAD
-=======
 			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.actionBarSize = global::MonkeyFinder.Resource.Attribute.actionBarSize;
 			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.collectionViewStyle = global::MonkeyFinder.Resource.Attribute.collectionViewStyle;
 			global::Microsoft.Maui.Controls.Compatibility.Resource.Attribute.scrollViewStyle = global::MonkeyFinder.Resource.Attribute.scrollViewStyle;
@@ -347,14 +345,11 @@ namespace MonkeyFinder
 			private Animator()
 			{
 			}
->>>>>>> parent of 8ffcd38 (assign 5)
 		}
 		
 		public partial class Attribute
 		{
 			
-<<<<<<< HEAD
-=======
 			// aapt resource value: 0x7F030002
 			public const int action = 2130903042;
 			
@@ -3967,7 +3962,6 @@ namespace MonkeyFinder
 			// aapt resource value: 0x7F0304B3
 			public const int yearTodayStyle = 2130904243;
 			
->>>>>>> parent of 8ffcd38 (assign 5)
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -3978,19 +3972,6 @@ namespace MonkeyFinder
 			}
 		}
 		
-<<<<<<< HEAD
-		public partial class Color
-		{
-			
-			// aapt resource value: 0x7F010000
-			public const int colorAccent = 2130771968;
-			
-			// aapt resource value: 0x7F010001
-			public const int colorPrimary = 2130771969;
-			
-			// aapt resource value: 0x7F010002
-			public const int colorPrimaryDark = 2130771970;
-=======
 		public partial class Boolean
 		{
 			
@@ -5854,7 +5835,6 @@ namespace MonkeyFinder
 			
 			// aapt resource value: 0x7F050264
 			public const int tooltip_background_light = 2131034724;
->>>>>>> parent of 8ffcd38 (assign 5)
 			
 			static Color()
 			{
@@ -5865,8 +5845,6 @@ namespace MonkeyFinder
 			{
 			}
 		}
-<<<<<<< HEAD
-=======
 		
 		public partial class Dimension
 		{
@@ -22369,7 +22347,6 @@ namespace MonkeyFinder
 			{
 			}
 		}
->>>>>>> parent of 8ffcd38 (assign 5)
 	}
 }
 #pragma warning restore 1591
