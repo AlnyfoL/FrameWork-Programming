@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Country"
+    "\\Country",
+    "\\Country\\MonkeyFinder"
   ],
-  "SelectedNode": "\\Country\\MonkeyFinder.sln",
+  "SelectedNode": "\\Country\\MonkeyFinder\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

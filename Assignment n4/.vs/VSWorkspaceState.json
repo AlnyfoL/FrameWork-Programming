@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Commanding",
+    "\\Commanding\\Commanding",
+    "\\InteractiveMVVM",
+    "\\InteractiveMVVM\\InteractiveMVVM",
+    "\\InteractiveMVVM\\InteractiveMVVM\\InteractiveMVVM",
     "\\SimpleMVVM",
-    "\\SimpleMVVM\\SimpleMVVM"
+    "\\SimpleMVVM\\SimpleMVVM",
+    "\\SimpleMVVM\\SimpleMVVM\\SimpleMVVM"
   ],
-  "SelectedNode": "\\SimpleMVVM\\SimpleMVVM\\SimpleMVVM.sln",
+  "SelectedNode": "\\Commanding\\Commanding\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
