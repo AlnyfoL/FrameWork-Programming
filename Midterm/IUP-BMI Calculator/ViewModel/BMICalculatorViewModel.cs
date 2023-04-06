@@ -46,15 +46,18 @@ namespace IUP_BMI_Calculator.ViewModel
         [RelayCommand]
         public void Save()
         {
-            // TO DO
-            App.
+            //App.
 
         }
 
         [RelayCommand]
         public void Clear()
         {
-            // TODO
+            name = "";
+            weight = 0;
+            height = 0;
+            //BMIScore = 0;
+            //BMIResult = "";
         }
 
     }

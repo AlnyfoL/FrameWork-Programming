@@ -6,7 +6,7 @@
              Title="BMI Calculator Page">
 
     <ContentPage.BindingContext>
-        <local:BMIViewModel/>
+		<local:BMICalculatorViewModel/>
     </ContentPage.BindingContext>
     
     <ScrollView>

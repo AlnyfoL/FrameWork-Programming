@@ -17,9 +17,8 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
-        // TODO
         builder.Services.AddSingleton<BMIResultRepository>();
-        //
+ 
         string dbPath = FileAccessHelper.GetLocalFilePath("BMIResult_StudentID_Name.db3");
         builder.Services.AddSingleton<BMIResultRepository>(s => ActivatorUtilities.CreateInstance<BMIResultRepository>(s, dbPath));
 
