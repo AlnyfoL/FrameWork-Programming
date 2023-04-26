@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources"
+    "\\app",
+    "\\app\\Events",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Listeners",
+    "\\app\\Notifications",
+    "\\app\\Policies",
+    "\\app\\View",
+    "\\app\\View\\Components"
   ],
   "PreviewInSolutionExplorer": false
 }
