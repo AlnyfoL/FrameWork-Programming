@@ -3,7 +3,6 @@
 I did all the exercises however at the beginning I encountered some problems.
 
 Run application:
-![alex](screen/cap6.png)
 
 ![alex](screen/cap7.png)
 
