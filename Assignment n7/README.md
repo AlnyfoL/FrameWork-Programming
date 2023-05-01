@@ -4,9 +4,9 @@ I did all the exercises however at the beginning I encountered some problems.
 
 Run application:
 
-![alex](screen/cap7.png)
-
 ![alex](screen/cap8.png)
+
+![alex](screen/cap7.png)
 
 ![alex](screen/cap9.png)
 
@@ -21,6 +21,7 @@ Run application:
 ![alex](screen/cap14.png)
 
 Problems exemples:
+
 ![alex](screen/cap4.png)
 
 ![alex](screen/cap5.png)
