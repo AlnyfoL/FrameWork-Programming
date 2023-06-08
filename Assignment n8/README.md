@@ -10,3 +10,12 @@ Explanation of the application based on Clean Architecture:
 respective functions
 
 4. DB, external interfaces: database table structure used.
+
+Pictures:
+![alex](scren/3.png)
+
+![alex](scren/4.png)
+
+![alex](scren/5.png)
+
+![alex](scren/6.png)
